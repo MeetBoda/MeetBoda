@@ -19,7 +19,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MeetBodal&label=Profile%20views&color=0e75b6&style=flat" alt="MeetBoda" /> </p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m Currently Studying in **7th** Semester and working on **MERN Stack & ML Project**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m Currently Studying in **1st** Semester(M.Tech CSE at IIT Kanpur) and working on various **ML & AI** related projects.
 
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> Area of Interest **Web Development & Machine Learning**
